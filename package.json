@@ -12,12 +12,13 @@
     "yarn": "^1.13.0"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "start": "node index",
     "build": "react-scripts build",
     "predeploy": "yarn run build",
     "deploy": "gh-pages -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
+    
   },
   "eslintConfig": {
     "extends": "react-app"
