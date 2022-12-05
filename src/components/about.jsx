@@ -51,7 +51,7 @@ Sou um entusiasta em tecnologia, inovação e estou sempre disposto a aprender c
                     <i className="icon-phone3" />
                 </span>
                 <div className="desc">
-                    <h3>Desenvolvimento Back-End</h3>
+                    <h3>Desenvolvimento Back-End </h3>
                     <p>Desenvolvimento de APIS utilizando JAVA e Spring Framework</p>
                 </div>
                 </div>
