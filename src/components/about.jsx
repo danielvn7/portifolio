@@ -13,11 +13,9 @@ export default class About extends Component {
                     <div className="about-desc">
                     <span className="heading-meta">Sobre mim</span>
                     <h2 className="colorlib-heading">Quem eu sou?</h2>
-                    <p>Após anos trabalhando no ramo administrativo onde agreguei muita experiência, decidi mudar e agora estou em transição de carreira para a área de Desenvolvedor de Software. 
-Sou estudante de Análise e Desenvolvimento de Sistemas, graduado em Logística. 
-<p></p>Em busca de adquirir mais experiência no mercado, avançar nos estudos e profissionalmente.
-Sou um entusiasta em tecnologia, inovação e estou sempre disposto a aprender coisas novas. 
-
+                    <p>Entusiasta na área de desenvolvimento atuando com a stack JavaScript, ReactJS.
+Atuando como front-end Júnior.
+Em busca de novos desafios , sempre buscando ir além do esperado.
                 </p>
                     </div>
                 </div>
